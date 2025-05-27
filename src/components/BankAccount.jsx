@@ -9,7 +9,7 @@ const BankAccount = () => {
     depositAmount: "",
     withdrawAmount: "",
   });
-  //edit in main
+  //edit in main edited in dev
   const initialErrorState = {
     deposit: false,
     withdraw: false,
